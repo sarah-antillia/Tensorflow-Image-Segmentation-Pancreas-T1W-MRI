@@ -326,15 +326,13 @@ Jinzheng Cai, Le Lu, Zizhao Zhang, Fuyong Xing, Lin Yang, Qian Yin
 <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5223591/">https://pmc.ncbi.nlm.nih.gov/articles/PMC5223591/</a>
 <br>
 <br>
-<b>2. ImageMask-Dataset-Pancreas-T2</b><br>
+<b>3. ImageMask-Dataset-Pancreas-T2</b><br>
 Toshiyuki Arai antillia.com<br>
 <a href="https://github.com/sarah-antillia/ImageMask-Dataset-Pancreas-T2">https://github.com/sarah-antillia/ImageMask-Dataset-Pancreas-T2
 </a>
 <br>
 <br>
-
-
-<b>3. Tensorflow-Image-Segmentation-Pancreas-T2W-MRI</b><br>
+<b>4. Tensorflow-Image-Segmentation-Pancreas-T2W-MRI</b><br>
 Toshiyuki Arai antillia.com<br>
 <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-Pancreas-T2W-MRI">
 Tensorflow-Image-Segmentation-Pancreas-T2W-MRI<a/><br>
